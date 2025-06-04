@@ -35,7 +35,7 @@ Aquest repositori recull el codi i els recursos utilitzats per al projecte d’a
 
 ## 👥 Autors
 
-- **[Martí Ballester Bosch]**  
+- **[Martí Ballester Bosch](https://github.com/martiballester)**  
 - **[Max Claver Aubry](https://github.com/mclaver-a)**  
 - **[Andreu San Millan Ortiz](https://github.com/andreusanmillan)**  
 

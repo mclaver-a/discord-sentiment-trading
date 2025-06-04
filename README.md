@@ -1,4 +1,4 @@
-Crypto Sentiment Analysis
+# Crypto Sentiment Analysis
 
 Aquest repositori conté el codi i recursos utilitzats per al projecte d’anàlisi de sentiment aplicat a missatges de Discord en l’àmbit de criptomonedes. L’objectiu és analitzar les emocions i opinions dels usuaris per complementar la presa de decisions en trading.
 

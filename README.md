@@ -39,5 +39,5 @@ Aquest repositori recull el codi i els recursos utilitzats per al projecte d’a
 - **[Max Claver Aubry](https://github.com/mclaver-a)**  
 - **[Andreu San Millan Ortiz](https://github.com/andreusanmillan)**  
 
-Projecte desenvolupat en el marc del Treball de Fi de Grau (TFG) de [Nom de la Universitat].
+Projecte desenvolupat en el marc del Treball de Fi de Grau (TFG) de la Universitat Pompeu Fabra.
 
